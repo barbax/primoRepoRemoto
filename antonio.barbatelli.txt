@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Ciao modificato sere
 modifcato di nuovo
 di nuovo
+=======
+Ciao modificato giacomo modificato francesca
+>>>>>>> refs/remotes/origin/master
